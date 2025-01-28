@@ -45,164 +45,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128141037500",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-28T14:10:37.500Z",
-	"dcterms:modified": "2025-01-28T14:10:37.500Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/AGoody50",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Alex Goody"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128141037500#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128141037500#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/lg/l[4]/note[2]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NoteScholarly",
-		"dc:format": "text/plain",
-		"rdf:value": "Mary Pickford was a Toronto-born actress for both the stage and the screen who was known as \"America's sweetheart\" and famous for her romance with the actor Douglas Fairbanks."
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128141057840",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-01-28T14:10:57.840Z",
-	"dcterms:modified": "2025-01-28T14:10:57.840Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/AGoody50",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Alex Goody"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128141057840#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128141057840#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/lg/l[6]/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NoteScholarly",
-		"dc:format": "text/plain",
-		"rdf:value": "The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/AGoody50/LEAF_training/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?note_annotation_20250128142128921",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-28T14:21:28.921Z",
@@ -258,12 +100,12 @@
             <byline>Vachel Lindsay</byline>
 
          <lg>
-            <l n="1">Elizabeth Barrett Browning<note type="scholarNote">Elizabeth Barrett was one of the most prominent poets of the nineteenth century who married the poet Robert Browning. In the early twentieth century when this poem was written, she was better remembered for the love letters and poems associated with their courtship than for her more ambitous and political writing, which was fiercely femininist and abolitionist.</note></l>
+            <l n="1">Elizabeth Barrett Browning</l>
          <l n="2">Sat gossiping with Robert.</l>
          <l n="3">(She was really a raving beauty in her day.</l>
-         <l n="4">With Mary Pickford<note type="scholarNote">The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing</note> curls in clouds and whirls.)<note type="scholarNote">Mary Pickford was a Toronto-born actress for both the stage and the screen who was known as "America's sweetheart" and famous for her romance with the actor Douglas Fairbanks.</note></l>
+         <l n="4">With Mary Pickford<note type="scholarNote">The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing</note> curls in clouds and whirls.)</l>
          <l n="5">She was trying to think of something nice to say,</l>
-         <l n="6">So she pointed to a page by her fellow star and sage,<note type="scholarNote">The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing</note></l>
+         <l n="6">So she pointed to a page by her fellow star and sage,</l>
          <l n="7">And said: "I wish that I could write that way!"</l>
          </lg>
 
